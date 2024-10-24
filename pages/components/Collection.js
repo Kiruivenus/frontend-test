@@ -15,7 +15,7 @@ export default function Collection({ product }) {
           </h2>
 
           <p className="max-w-lg mx-auto mt-4 text-gray-500">
-            Explore our latest arrivals and elevate your style with our exclusive new collection. 
+            Explore our newest arrivals and elevate your style with our exclusive new collection. 
           </p>
 
         </header>
